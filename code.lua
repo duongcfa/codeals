@@ -1,7 +1,21 @@
 return {
+  "BigUpdateWednesday",
+  "BlamsSecretMiniUpdateMustBeSubbedToWork",
+  "evolvethis",
+  "ALSUpdateIsCooking",
+  "SkillTreeRestALPHAReportAnyBugs",
+  "ThankYouSoMuch45mVisits",
   "50ThousandsFavorites!!!",
-  "200kMembersINSANE!",
+  "200kMembersINSANE!"
   "TyFor25mVisitsOMG!",
-  "UPDATE1HYPE!",
-  "Update1TrailerHYPE"
+  "Sub2Noclypso176k",
+  "HanminloveSecretCodeMustBeSubbedToWork",
+  "BlamSpotInsaneWeekendCodeMustBeSubbedToWork",
+  "BlamSpoyYTSecretUnitCodeMustBeSubbedToWork",
+  "BlamSecretValentinesCode",
+  "Sub2KingLuffy",
+  "D1SGUISED",
+  "YammoRework",
+  "Sub2CodeNex77k",
+  "Sub2BmGTormenter117onYT"
 }
